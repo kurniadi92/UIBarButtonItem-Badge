@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "UIBarButtonItem-Badge-Coding"
+  s.name         = "UIBarButtonItem-Badge"
   s.version      = "0.0.2"
   s.summary      = "Create a BarButtonItem with a badge on top. Easily customizable. Your BarButtonItem can be any custom view you wish for. The badge on top can display any number or string of any size or length."
 
